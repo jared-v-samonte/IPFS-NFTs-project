@@ -34,7 +34,7 @@ class HomePage extends Component {
       <h3></h3>
 
       <div class="container">
-      <p>This is a demonstration of Jared V. Samonte's capabilites in developing in Ethereum, IPFS, Web3.js, the Truffle framework, OpenZeppelin ERC721 library, and the Ganache personal blockchain were all used in this project. Please email the following address to contact: jared.v.samonte@gmail.com</p>
+      <p>This is a demonstration of Jared V. Samonte's capabilites in developing in Ethereum, IPFS, Web3.js, the Truffle framework, OpenZeppelin ERC721 library, the Ganache personal blockchain, and Goerli test network. Please email the following address to contact: jared.v.samonte@gmail.com</p>
       </div>
       <a href="https://www.linkedin.com/in/jared-samonte-9b9192157/">LinkedIn Account</a>
 
