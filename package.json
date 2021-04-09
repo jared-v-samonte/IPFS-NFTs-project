@@ -1,5 +1,6 @@
 {
-  "name": "photos",
+  "homepage": "https://jared-v-samonte.github.io/IPFS-NFTs-project/",
+  "name": "project",
   "version": "0.1.0",
   "description": "",
   "main": "truffle.js",
@@ -7,6 +8,8 @@
     "test": "test"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -76,6 +79,7 @@
   "devDependencies": {
     "@truffle/hdwallet-provider": "^1.2.6",
     "dotenv": "^8.2.0",
+    "gh-pages": "^3.1.0",
     "text-encoder": "^0.0.4"
   }
 }

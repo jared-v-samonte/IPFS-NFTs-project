@@ -13,7 +13,7 @@ module.exports = {
       provider: function() {
         return new HDWalletProvider(
           process.env.MNEMONIC,
-          'https://mainnet.infura.io/v3/${process.env.INFURA_API_KEY}'
+          'https://mainnet.infura.io/v3/' + process.env.INFURA_API_KEY
         )
       },
       gas: 5000000,
