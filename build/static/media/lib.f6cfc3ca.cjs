@@ -1,1 +1,0 @@
-"use strict";exports.TextEncoder="undefined"!==typeof TextEncoder?TextEncoder:require("util").TextEncoder,exports.TextDecoder="undefined"!==typeof TextDecoder?TextDecoder:require("util").TextDecoder;
