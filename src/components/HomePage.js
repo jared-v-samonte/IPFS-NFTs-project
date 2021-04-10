@@ -34,10 +34,10 @@ class HomePage extends Component {
       <h3></h3>
 
       <div class="container">
-      <p>The smart contracts does not allow for duplicate titles or hashes, so titles and hashes can only be used once. This is a demonstration of Jared V. Samonte's capabilities in developing in Ethereum, IPFS, Web3.js, the Truffle framework, OpenZeppelin ERC721 library, the Ganache personal blockchain, and Goerli test network.</p>
+      <p>The smart contract does not allow for duplicate titles or hashes, so titles and hashes can only be used once. This is a demonstration of Jared V. Samonte's capabilities in developing in Ethereum, IPFS, Web3.js, the Truffle framework, OpenZeppelin ERC721 library, the Ganache personal blockchain, and Goerli test network.</p>
       </div>
       <a href="https://www.linkedin.com/in/jared-samonte-9b9192157/">LinkedIn Account</a>
-      <a href="https://github.com/jared-v-samonte/IPFS-NFTs-project">GitHup Repository</a>
+      <a href="https://github.com/jared-v-samonte/IPFS-NFTs-project">GitHub Repository</a>
 
 
       </View>
