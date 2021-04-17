@@ -8,7 +8,7 @@ Steps to use project
 4. Use Website
 
 About the Smart Contract
-* Cannot use dupplicate titles
+* Cannot use duplicate titles
 * Cannot use duplicate files
 * Can only accept a title once
 * Can only accept a file once
